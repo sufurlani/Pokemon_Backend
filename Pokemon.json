@@ -1,0 +1,1050 @@
+{
+    "results":[      
+        {
+            "abilities": [
+            {
+                "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+                },
+                "is_hidden": false,
+                "slot": 1
+            },
+            {
+                "ability": {
+                "name": "libero",
+                "url": "https://pokeapi.co/api/v2/ability/236/"
+                },
+                "is_hidden": true,
+                "slot": 3
+            }
+            ],    
+            "height": 3,
+            "id": 813,
+            "name": "scorbunny",
+            "order": 994,            
+            "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/813.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/813.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/813.png",
+            "front_shiny_female": null,
+            "other": {
+                "dream_world": {
+                "front_default": null,
+                "front_female": null
+                },
+                "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/813.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/813.png",
+                "front_shiny_female": null
+                }
+            }            
+            },            
+            "types": [
+            {
+                "slot": 1,
+                "type": {
+                "name": "fire",
+                "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+            ],
+            "weight": 45,
+            "url": "https://localhost:5001/Pokemon/813"
+        },
+     
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "libero",
+                "url": "https://pokeapi.co/api/v2/ability/236/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],          
+          "height": 6,
+          "id": 814,          
+          "name": "raboot",
+          "order": 995,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/814.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/814.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/814.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": null,
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/814.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/814.png",
+                "front_shiny_female": null
+              }
+            }            
+          },
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "fire",
+                "url": "https://pokeapi.co/api/v2/type/10/"
+              }
+            }
+          ],
+          "weight": 90,
+          "url": "https://localhost:5001/Pokemon/814"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "libero",
+                "url": "https://pokeapi.co/api/v2/ability/236/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],
+          "height": 14,
+          "id": 815,
+          "name": "cinderace",
+          "order": 996,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/815.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/815.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/815.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": null,
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/815.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/815.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "fire",
+                "url": "https://pokeapi.co/api/v2/type/10/"
+              }
+            }
+          ],
+          "weight": 330,
+          "url": "https://localhost:5001/Pokemon/815"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "immunity",
+                "url": "https://pokeapi.co/api/v2/ability/17/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "thick-fat",
+                "url": "https://pokeapi.co/api/v2/ability/47/"
+              },
+              "is_hidden": false,
+              "slot": 2
+            },
+            {
+              "ability": {
+                "name": "gluttony",
+                "url": "https://pokeapi.co/api/v2/ability/82/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],
+          "height": 21,        
+          "id": 143,
+          "name": "snorlax",
+          "order": 235,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/143.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/143.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/143.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/143.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+              }
+            }
+          },
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "normal",
+                "url": "https://pokeapi.co/api/v2/type/1/"
+              }
+            }
+          ],
+          "weight": 4600,
+          "url": "https://localhost:5001/Pokemon/143"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "damp",
+                "url": "https://pokeapi.co/api/v2/ability/6/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "cloud-nine",
+                "url": "https://pokeapi.co/api/v2/ability/13/"
+              },
+              "is_hidden": false,
+              "slot": 2
+            },
+            {
+              "ability": {
+                "name": "swift-swim",
+                "url": "https://pokeapi.co/api/v2/ability/33/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 8,
+          "id": 54,          
+          "name": "psyduck",
+          "order": 93,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/54.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/54.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/54.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 196,
+          "url": "https://localhost:5001/Pokemon/54"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "oblivious",
+                "url": "https://pokeapi.co/api/v2/ability/12/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "own-tempo",
+                "url": "https://pokeapi.co/api/v2/ability/20/"
+              },
+              "is_hidden": false,
+              "slot": 2
+            },
+            {
+              "ability": {
+                "name": "regenerator",
+                "url": "https://pokeapi.co/api/v2/ability/144/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 12,          
+          "id": 79,          
+          "name": "slowpoke",
+          "order": 125,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/79.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/79.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/79.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/79.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/79.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            },
+            {
+              "slot": 2,
+              "type": {
+                "name": "psychic",
+                "url": "https://pokeapi.co/api/v2/type/14/"
+              }
+            }
+          ],
+          "weight": 360,
+          "url": "https://localhost:5001/Pokemon/79"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "rain-dish",
+                "url": "https://pokeapi.co/api/v2/ability/44/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],          
+          "height": 5,
+          "id": 7,          
+          "name": "squirtle",
+          "order": 10,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/7.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/7.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/7.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 90,
+          "url": "https://localhost:5001/Pokemon/7"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "rain-dish",
+                "url": "https://pokeapi.co/api/v2/ability/44/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 16,
+          "id": 9,          
+          "name": "blastoise",
+          "order": 12,          
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/9.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/9.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/9.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 855,
+          "url": "https://localhost:5001/Pokemon/9"
+        },
+        
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "solar-power",
+                "url": "https://pokeapi.co/api/v2/ability/94/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 6,
+          "id": 4,          
+          "name": "charmander",
+          "order": 5,          
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/4.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/4.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/4.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "fire",
+                "url": "https://pokeapi.co/api/v2/type/10/"
+              }
+            }
+          ],
+          "weight": 85,
+          "url": "https://localhost:5001/Pokemon/4"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "solar-power",
+                "url": "https://pokeapi.co/api/v2/ability/94/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],          
+          "name": "charizard",
+          "order": 7,
+          "id": 6,
+          "height": 17,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/6.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/6.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "fire",
+                "url": "https://pokeapi.co/api/v2/type/10/"
+              }
+            },
+            {
+              "slot": 2,
+              "type": {
+                "name": "flying",
+                "url": "https://pokeapi.co/api/v2/type/3/"
+              }
+            }
+          ],
+          "weight": 905,
+          "url": "https://localhost:5001/Pokemon/6"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "sniper",
+                "url": "https://pokeapi.co/api/v2/ability/97/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],
+          "height": 3,
+          "id": 816,          
+          "name": "sobble",
+          "order": 997,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/816.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/816.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/816.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": null,
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/816.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/816.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 40,
+          "url": "https://localhost:5001/Pokemon/816"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "protean",
+                "url": "https://pokeapi.co/api/v2/ability/168/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],          
+          "height": 3,
+          "id": 656,          
+          "name": "froakie",
+          "order": 786,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/656.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/656.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/656.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": null,
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/656.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/656.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 70,
+          "url": "https://localhost:5001/Pokemon/656"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "protean",
+                "url": "https://pokeapi.co/api/v2/ability/168/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],          
+          "height": 15,
+          "id": 658,          
+          "name": "greninja",
+          "order": 788,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/658.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/658.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/658.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": null,
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/658.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/658.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+              }
+            }            
+          },        
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            },
+            {
+              "slot": 2,
+              "type": {
+                "name": "dark",
+                "url": "https://pokeapi.co/api/v2/type/17/"
+              }
+            }
+          ],
+          "weight": 400,
+          "url": "https://localhost:5001/Pokemon/658"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "steadfast",
+                "url": "https://pokeapi.co/api/v2/ability/80/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "inner-focus",
+                "url": "https://pokeapi.co/api/v2/ability/39/"
+              },
+              "is_hidden": false,
+              "slot": 2
+            },
+            {
+              "ability": {
+                "name": "justified",
+                "url": "https://pokeapi.co/api/v2/ability/154/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                  
+          "height": 12,
+          "id": 448,          
+          "name": "lucario",
+          "order": 573,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/448.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/448.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/448.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/448.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/448.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/448.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "fighting",
+                "url": "https://pokeapi.co/api/v2/type/2/"
+              }
+            },
+            {
+              "slot": 2,
+              "type": {
+                "name": "steel",
+                "url": "https://pokeapi.co/api/v2/type/9/"
+              }
+            }
+          ],
+          "weight": 540,
+          "url": "https://localhost:5001/Pokemon/448"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "synchronize",
+                "url": "https://pokeapi.co/api/v2/ability/28/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "trace",
+                "url": "https://pokeapi.co/api/v2/ability/36/"
+              },
+              "is_hidden": false,
+              "slot": 2
+            },
+            {
+              "ability": {
+                "name": "telepathy",
+                "url": "https://pokeapi.co/api/v2/ability/140/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 16,
+          "id": 282,          
+          "name": "gardevoir",
+          "order": 382,         
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/282.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/282.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/282.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "psychic",
+                "url": "https://pokeapi.co/api/v2/type/14/"
+              }
+            },
+            {
+              "slot": 2,
+              "type": {
+                "name": "fairy",
+                "url": "https://pokeapi.co/api/v2/type/18/"
+              }
+            }
+          ],
+          "weight": 484,
+          "url": "https://localhost:5001/Pokemon/282"
+        },
+
+        {
+          "abilities": [
+            {
+              "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+              },
+              "is_hidden": false,
+              "slot": 1
+            },
+            {
+              "ability": {
+                "name": "defiant",
+                "url": "https://pokeapi.co/api/v2/ability/128/"
+              },
+              "is_hidden": true,
+              "slot": 3
+            }
+          ],                    
+          "height": 4,
+          "id": 393,          
+          "name": "piplup",
+          "order": 524,
+          "sprites": {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/393.png",
+            "back_female": null,
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/393.png",
+            "back_shiny_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+            "front_female": null,
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/393.png",
+            "front_shiny_female": null,
+            "other": {
+              "dream_world": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/393.svg",
+                "front_female": null
+              },
+              "home": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/393.png",
+                "front_female": null,
+                "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/393.png",
+                "front_shiny_female": null
+              },
+              "official-artwork": {
+                "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+              }
+            }            
+          },          
+          "types": [
+            {
+              "slot": 1,
+              "type": {
+                "name": "water",
+                "url": "https://pokeapi.co/api/v2/type/11/"
+              }
+            }
+          ],
+          "weight": 52,
+          "url": "https://localhost:5001/Pokemon/393"
+        }        
+    ]
+}
+
+
